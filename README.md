@@ -8,12 +8,12 @@ The purpose of this project is to use excel to analyze the result of the Kicksta
 ## Analysis (Outcomes Based on Launch Date)
 
 The analysis of Outcomes Based on Launch Date was done by using a pivot table for the data set. In the pivot table we filtered by Parent Category and Years to be able to filter the data. For columns and values we select outcome because we want to be able to analyze if the events were successful, failed, or canceled. For row we select Dates Created Conversion by Months. From that pivot table we created a line graph to visualize the data. 
-
+![Theather_Outcomes_vs_Launch](Theather_Outcomes_vs_Launch.png)
 
 ## Analysis (Outcomes Based on Goals)
 
 The analysis of Outcomes Based on Goals was done by using the Countif function. This function allows us to count the number of successful, failed, and canceled result for specific range of the goal. We also used the Sum function to add up the number of total projects. We also used simple math calculation to show the data in percentage. We then used a line graph to visualize the data. 
-
+![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
 
 ## Results 
 
