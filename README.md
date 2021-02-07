@@ -9,7 +9,7 @@ The purpose of this project is to use excel to analyze the result of the Kicksta
 
 The analysis of Outcomes Based on Launch Date was done by using a pivot table for the data set. In the pivot table we filtered by Parent Category and Years to be able to filter the data. For columns and values we select outcome because we want to be able to analyze if the events were successful, failed, or canceled. For row we select Dates Created Conversion by Months. From that pivot table we created a line graph to visualize the data. 
 
-![Theather_Outcomes_vs_Launch](path/to/Theather_Outcomes_vs_Launch.png)
+![Pic](path/to/Theather_Outcomes_vs_Launch.png)
 
 ## Analysis (Outcomes Based on Goals)
 
